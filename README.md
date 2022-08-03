@@ -16,7 +16,7 @@ CC Practiceは、以下の特徴を持っています。
 - [Remap](https://remap-keys.app)でのキーマップ変更に対応（現在Remap未登録のため、jsonファイルが必要。VIAは動作未確認）
 
 ## 組み立て済みキーボードを手にした方向けの利用ガイド
-組み立て済みのキーボードを受け取った方に向けた、利用ガイドを制作中です。
+組み立て済みのキーボードを受け取った方に向けた、利用ガイドを制作中です。  
 （2022年8月12日までには公開予定）
 
 ## ファームウェア
@@ -25,19 +25,23 @@ CC Practiceは、以下の特徴を持っています。
 - [QMK Firmware Sources]()
 
 ## キーボードの入手方法
-組み立て済みのものを、コミックマーケット100で頒布予定。[頒布場所の詳細はコミケWebカタログをご覧ください](https://webcatalog-free.circle.ms/Circle/16215504)。
+組み立て済みのものを、コミックマーケット100で頒布予定。  
+[頒布場所の詳細はコミケWebカタログをご覧ください](https://webcatalog-free.circle.ms/Circle/16215504)。
 
-### PCB Data / Plate Data
-KiCadで作成した基板データ、ガーバーデータを公開予定。
+### PCB Data
+KiCadで作成した基板データ、ガーバーデータ。
+
+- [PCB Data](https://github.com/mokesura/cc_practice/tree/main/pcb) 
+- [PCB Gerber Data](https://github.com/mokesura/cc_practice/tree/main/pcb-gerber) 
 
 ## 回路図
-- [回路図/Schematic]()
+- [回路図/Schematic](https://github.com/mokesura/cc_practice/blob/main/pcb/cc-practice_Schematic.pdf)
 
 ## 組み立てに必要な部品リスト
 公開予定。
 
 ## ライセンス
-[MIT License](https://github.com/mokesura/cc_proto/blob/main/LICENSE)
+[MIT License](https://github.com/mokesura/cc_practice/blob/main/LICENSE)
 
 ## 使用したKiCadフットプリント
 - [KBD - for building keyboard libraries](https://github.com/foostan/kbd) 
