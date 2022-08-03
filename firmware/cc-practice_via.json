@@ -1,0 +1,13 @@
+{
+  "name": "CC Practice",
+  "vendorId": "0x1209",
+  "productId": "0xCC01",
+  "lighting": "none",
+  "matrix": { "rows": 2, "cols": 3 },
+  "layouts": {
+    "keymap": [
+      ["0,2","0,1","0,0"],
+      ["1,2","1,1","1,0"]
+    ]
+  }
+}
