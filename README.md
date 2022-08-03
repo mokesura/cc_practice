@@ -9,7 +9,7 @@ CC Practiceは、以下の特徴を持っています。
 
 - 名刺サイズの6キーキーボード。
 - マイコンにPro Microを使用。コンスルーによる抜き差しに対応。
-- Cherry MX互換/Kailh Choc V1/Kailh Mid-Height/ALPS系スイッチ対応
+- Cherry MX互換/Kailh Mid-Height/Kailh Choc V1/Kailh Choc V2/ALPS系スイッチ対応
   - Cherry MX互換/Kailh Mid-HeightスイッチはKailhソケットとはんだ付けの両方に対応。その他スイッチははんだ付けのみに対応。
 - ダイオード不要の設計で、比較的簡単に組み立てを行うことができます（組み立てにははんだ付けが必要です）。
 - QMK Firmware対応
