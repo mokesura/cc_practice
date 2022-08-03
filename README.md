@@ -1,6 +1,6 @@
 # CC Practice
 
-![CC Practice](https://github.com/mokesura/cc_proto/blob/main/img/cc_proto.jpg?raw=true)
+![CC Practice](https://github.com/mokesura/cc_practice/blob/main/img/cc-practice_pcb-photo.jpg?raw=true)
 
 ※組み立て済みの写真がないのは、まだ組み立てていないからです…。
 
@@ -22,7 +22,7 @@ CC Practiceは、以下の特徴を持っています。
 ## ファームウェア
 デフォルトファームウェアはRemap/VIA対応です。
 
-- [QMK Firmware Sources]()
+- [QMK Firmware Sources](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_practice/keyboards/mokesura/cc_practice)
 - [Hex File and Json file for Remap/VIA](https://github.com/mokesura/cc_proto/tree/main/firmware)
 
 ## キーボードの入手方法
