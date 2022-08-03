@@ -9,11 +9,11 @@ CC Practiceは、以下の特徴を持っています。
 
 - 名刺サイズの6キーキーボード。
 - マイコンにPro Microを使用。コンスルーによる抜き差しに対応。
-- Cherry MX互換/Kailh Mid-Height/Kailh Choc V1/Kailh Choc V2/ALPS系スイッチ対応
+- Cherry MX互換/Kailh Mid-Height/Kailh Choc V1/Kailh Choc V2/ALPS系スイッチ対応。
   - Cherry MX互換/Kailh Mid-HeightスイッチはKailhソケットとはんだ付けの両方に対応。その他スイッチははんだ付けのみに対応。
 - ダイオード不要の設計で、比較的簡単に組み立てを行うことができます（組み立てにははんだ付けが必要です）。
-- QMK Firmware対応
-- [Remap](https://remap-keys.app)でのキーマップ変更に対応（現在Remap未登録のため、jsonファイルが必要。VIAは動作未確認）
+- QMK Firmware対応。
+- [Remap](https://remap-keys.app)でのキーマップ変更に対応（現在Remap未登録のため、jsonファイルが必要。VIAは動作未確認）。
 
 ## 組み立て済みキーボードを手にした方向けの利用ガイド
 組み立て済みのキーボードを受け取った方に向けた、利用ガイドを制作中です。  
@@ -23,10 +23,11 @@ CC Practiceは、以下の特徴を持っています。
 デフォルトファームウェアはRemap/VIA対応です。
 
 - [QMK Firmware Sources]()
+- [Hex File and Json file for Remap/VIA](https://github.com/mokesura/cc_proto/tree/main/firmware)
 
 ## キーボードの入手方法
 組み立て済みのものを、コミックマーケット100で頒布予定。  
-[頒布場所の詳細はコミケWebカタログをご覧ください](https://webcatalog-free.circle.ms/Circle/16215504)。
+頒布場所の詳細は[コミケWebカタログ](https://webcatalog-free.circle.ms/Circle/16215504)をご覧ください。
 
 ### PCB Data
 KiCadで作成した基板データ、ガーバーデータ。
