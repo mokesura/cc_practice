@@ -23,7 +23,7 @@ CC Practiceは、以下の特徴を持っています。
 デフォルトファームウェアはRemap/VIA対応です。
 
 - [QMK Firmware Sources](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_practice/keyboards/mokesura/cc_practice)
-- [Hex File and Json file for Remap/VIA](https://github.com/mokesura/cc_proto/tree/main/firmware)
+- [Hex File / Json for VIA](https://github.com/mokesura/cc_practice/tree/main/firmware)
 
 ## キーボードの入手方法
 組み立て済みのものを、コミックマーケット100で頒布予定。  
