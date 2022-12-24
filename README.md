@@ -2,7 +2,7 @@
 
 ![CC Practice](https://github.com/mokesura/cc_practice/blob/main/img/cc-practice_pcb-photo.jpg?raw=true)
 
-※組み立て済みの写真がないのは、まだ組み立てていないからです…。
+※組み立て済みの写真に差し替え予定。
 
 ## 特徴
 CC Practiceは、以下の特徴を持っています。
@@ -16,18 +16,22 @@ CC Practiceは、以下の特徴を持っています。
 - [Remap](https://remap-keys.app)でのキーマップ変更に対応（現在Remap未登録のため、jsonファイルが必要。VIAは動作未確認）。
 
 ## 組み立て済みキーボードを手にした方向けの利用ガイド
-組み立て済みのキーボードを受け取った方に向けた、利用ガイドを制作中です。  
-（2022年8月12日までには公開予定）
+組み立て済みのキーボードを受け取った方に向けた、利用ガイドを公開しております。
+
+- [「TRPGオンラインセッションで便利に使えるかもしれないミニキーボード（組立済）」の使い方　その1：事前説明編](https://note.com/azulee/n/n4eed2e0b9e5f)
+- [「TRPGオンラインセッションで便利に使えるかもしれないミニキーボード（組立済）」の使い方　その2：セットアップ編
+](https://note.com/azulee/n/n12c354e7c35d) 
+- [「TRPGオンラインセッションで便利に使えるかもしれないミニキーボード（組立済）」の使い方　その3：キー設定編](https://note.com/azulee/n/n925a49817ccf) 
 
 ## ファームウェア
-デフォルトファームウェアはRemap/VIA対応です。
 
 - [QMK Firmware Sources](https://github.com/mokesura/qmk_firmware/tree/mokesura/cc_practice/keyboards/mokesura/cc_practice)
 - [Hex File / Json for VIA](https://github.com/mokesura/cc_practice/tree/main/firmware)
 
 ## キーボードの入手方法
-組み立て済みのものを、コミックマーケット100で頒布予定。  
-頒布場所の詳細は[コミケWebカタログ](https://webcatalog-free.circle.ms/Circle/16215504)をご覧ください。
+組み立て済みキーボードをBOOTHで頒布しております。
+
+- [TRPGオンラインセッションで便利に使えるかもしれないミニキーボード（組立済）](https://azulee.booth.pm/items/4087407) 
 
 ### PCB Data
 KiCadで作成した基板データ、ガーバーデータ。
