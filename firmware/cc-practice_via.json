@@ -1,9 +1,20 @@
 {
   "name": "CC Practice",
-  "vendorId": "0x1209",
+  "vendorId":  "0x1209",
   "productId": "0xCC01",
   "lighting": "none",
   "matrix": { "rows": 2, "cols": 3 },
+  "customKeycodes": [
+  { "name": "Roll 1D4", "title": "Roll a 4-sided dice using Google, etc.", "shortName": "1D4"},
+  { "name": "Roll 1D6", "title": "Roll a 6-sided dice using Google, etc.", "shortName": "1D6"},
+  { "name": "Roll 1D8", "title": "Roll a 8-sided dice using Google, etc.", "shortName": "1D8"},
+  { "name": "Roll 1D10", "title": "Roll a 10-sided dice using Google, etc.", "shortName": "1D10"},
+  { "name": "Roll 1D12", "title": "Roll a 12-sided dice using Google, etc.", "shortName": "1D12"},
+  { "name": "Roll 1D20", "title": "Roll a 20-sided dice using Google, etc.", "shortName": "1D20"},
+  { "name": "Roll 2D6", "title": "Roll two 6-sided dices using Google, etc.", "shortName": "2D6"},
+  { "name": "Roll 3D6", "title": "Roll three 6-sided dices using Google, etc.", "shortName": "3D6"},
+  { "name": "Roll 1D100", "title": "Roll a 100-sided dice using TTRPG online session tools, etc.", "shortName": "1D100"}
+  ],
   "layouts": {
     "keymap": [
       ["0,2","0,1","0,0"],
